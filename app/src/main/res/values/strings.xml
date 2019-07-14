@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Andela 4.0: Phase 1 Challenge- Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="alc">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="name">Eze Evidence</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: eze.pleasant234@gmail.com</string>
+    <string name="phone">Phone Number: +23470142615</string>
+    <string name="slack">Slack Username: @Ezeevidence</string>
+</resources>
